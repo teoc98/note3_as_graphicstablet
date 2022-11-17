@@ -1,7 +1,7 @@
 # Note 3 as graphics tablet
 
 Use your smartphone (or tablet) with stylus as a graphics tablet and/or as a touchpad on Linux. 
-Currently supports only Samsung Galaxy Note 3, but with a few tweaks can work for any device (requires a minimum knowledge of `libinput`). 
+Currently supports only Samsung Galaxy Note 3, but with a few tweaks it can work for any device (requires a minimum knowledge of `libinput`). 
 
 ### Usage
 
